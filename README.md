@@ -11,7 +11,8 @@ Supply of parts for prototype
 #### **list of tests to do**
 - [x] display test (it works!!)
 - [x] Gyro + Accelerometer
-- [ ] geomagnetic sensor
+- [x] geomagnetic sensor
+- [ ] works together
 - [ ] Stepping out of the breadboard and adding a file other than readme.md
 - [ ] IR receiver
 - [ ] IR transceiver
