@@ -13,7 +13,7 @@ Supply of parts for prototype
 - [x] Gyro + Accelerometer
 - [x] geomagnetic sensor
 - [x] works together
-- [ ] Stepping out of the breadboard and adding a file other than readme.md
+- [x] Stepping out of the breadboard and adding a file other than readme.md
 - [ ] IR receiver
 - [ ] IR transceiver
 - [ ] ambient light sensor
