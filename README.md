@@ -12,7 +12,7 @@ Supply of parts for prototype
 - [x] display test (it works!!)
 - [x] Gyro + Accelerometer
 - [x] geomagnetic sensor
-- [ ] works together
+- [x] works together
 - [ ] Stepping out of the breadboard and adding a file other than readme.md
 - [ ] IR receiver
 - [ ] IR transceiver
