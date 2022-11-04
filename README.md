@@ -14,9 +14,9 @@ Supply of parts for prototype
 - [x] geomagnetic sensor
 - [x] works together
 - [x] Stepping out of the breadboard and adding a file other than readme.md
-- [ ] IR receiver
-- [ ] IR transceiver
-- [ ] ambient light sensor
+- [x] IR receiver
+- [x] IR transceiver
+- [x] ambient light sensor
 - [ ] internal storage test
 - [ ] Unicode character display
 - [ ] Rechargeable battery support
